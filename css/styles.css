@@ -1,0 +1,18 @@
+.jumbotron {
+  text-align: center;
+  border: 0.5px solid darkgray;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 350px;
+  margin-right: 350px;
+  border: 0.5px solid darkgray;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: rosybrown;
+}
