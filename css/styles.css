@@ -16,3 +16,9 @@ form {
   padding: 10px;
   background-color: rosybrown;
 }
+button {
+  margin-top: 5px;
+  border: 1px solid darkgray;
+  border-radius: 10px;
+  background-color: lightgray;
+}
